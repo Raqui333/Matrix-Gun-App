@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Matrix Gun</string>
+    <string name="scoreboard_text">PLACAR</string>
+    <string name="life_text">VIDA</string>
+    <string name="generic_description">Grafico do jogo</string>
+    <string name="on_win">VENCEU</string>
+    <string name="on_lose">PERDEU</string>
+</resources>

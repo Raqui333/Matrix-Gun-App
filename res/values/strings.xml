@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">Matrix Gun</string>
+    <string name="scoreboard_text">SCORE</string>
+    <string name="life_text">LIFE</string>
+    <string name="on_win">WIN</string>
+    <string name="on_lose">LOSE</string>
+    <string name="generic_text" translatable="false">NAN</string>
+    <string name="generic_description">Game graphic</string>
+</resources>
